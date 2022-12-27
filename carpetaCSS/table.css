@@ -37,7 +37,6 @@ header img {
     max-width: 1500px;
     margin: auto;
     height: auto;
-    border-radius: 0px 0px 55% 55%;
 
 }
 
@@ -64,7 +63,6 @@ header img {
     margin: 0 auto;
     height: auto;
     background-color: rgba(238, 235, 232, 0.796);
-    border-radius: 40% 40% 0px 0px;
 }
 
 .container--footer{
